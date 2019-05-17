@@ -3,7 +3,7 @@ title = "Manipulating Wild and Tamed Phytobiomes: Challenges and Opportunities"
 date = 2019-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Terrence H Bell, Kevin Hockett, Ricardo Ivan Alcalá-Briseño, Mary Barbercheck, Gwyn A Beattie, Mary Ann Bruns, John Carlson, Taejung Chung, Alyssa Collins, Bryan Emmett, Paul Esker, karen Garrett, Leland Glenna, Beth K Gugino, Maria del Mar Jimenez Gasco, Linda Kinkel, Jasna Kovac, Kurt Kowalski, Gretchen Kuldau, Johan Leveau, Matthew Michalska-Smith, Jessica Myrick, Kari Peter, Maria Vivanco Salazar, Ashley Shade, __Nejc Stopnisek__, Xiaoqing Tan, Amy Welty, Kyle Wickings, Etienne Yergeau"]
+authors = ["Terrence H Bell", "Kevin Hockett", "Ricardo Ivan Alcalá-Briseño", "Mary Barbercheck", "Gwyn A Beattie", "Mary Ann Bruns", "John Carlson", "Taejung Chung", "Alyssa Collins", "Bryan Emmett", "Paul Esker", "Karen Garrett", "Leland Glenna", "Beth K Gugino", "Maria del Mar Jimenez Gasco", "Linda Kinkel", "Jasna Kovac", "Kurt Kowalski", "Gretchen Kuldau", "Johan Leveau", "Matthew Michalska-Smith", "Jessica Myrick", "Kari Peter", "Maria Vivanco Salazar", "Ashley Shade", "__Nejc Stopnisek__", "Xiaoqing Tan", "Amy Welty", "Kyle Wickings", "Etienne Yergeau"]
 
 # Publication type.
 # Legend:
