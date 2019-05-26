@@ -25,7 +25,7 @@ subtitle = ""
   icon = "flask"
   icon_pack = "fas"
   name = "Analytical"
-  description = "" 
+  description = "Skilled in analysis of metabolites and gasses using liquid, ion and gass chromatography. Recently, using targeted and untargeted LC/MS/MS to identify plant exudates related to plant development and stressed conditions, and those important for recruitment of beneficial microbes. " 
   
 [[feature]]
   #icon = "file-code"
