@@ -1,15 +1,15 @@
 ---
-title: Attending and presenting at APS meeting
+title: Attending and presenting at APS
 event: APS annual meeting
-event_url: https://example.org
+event_url: https://www.apsnet.org/meetings/annual/planthealth2019/Pages/default.aspx
 location: Cleveland, Ohio
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Workshop entitled "The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interactions".
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-08-03T13:00:00Z"
+date_end: "2019-08-07T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -55,12 +55,3 @@ math: true
 ---
 
 This workshop is an all-day session at the start of the APS Annual Meeting. Goals of the workshop include strengthening APS membership understanding of root systems, root foraging and stress adaptation behavior, and recent innovations for studying root phenotyping as well as to share recent innovations in studying root/rhizosphere microbiomes and the direct and indirect ways they contribute to plant health and maintaining plant productivity during stress. The workshop will feature breakout sessions to discuss opportunities for new transformational ideas afforded by this interdisciplinary perspective, future directions for research, and how can we continue to work together in an interdisciplinary manner. The organisers of the workshop are __Linda Kinkel__, __Leland Pierson__, and __Larry York__.
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
