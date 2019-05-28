@@ -1,9 +1,9 @@
 +++
-title = "New paper in bioRiv"
-date = 2019-05-07T00:00:00
+title = "Presenting at the APS workshop: __The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interactions__"
+date = 2019-05-27T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Keara L Grady *", "Jackson W. Sorensen *", "__Nejc Stopnisek__ *", "John Guittar", "Ashley Shade"]
+authors = ["APS Annual meeting, Cleveland, Ohio"]
 
 # Publication type.
 # Legend:
@@ -16,23 +16,23 @@ authors = ["Keara L Grady *", "Jackson W. Sorensen *", "__Nejc Stopnisek__ *", "
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["3"]
+#publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Assembly and seasonality of core phyllosphere microbiota on perennial biofuel crops"
+publication = ""
 publication_short = ""
 
 # Abstract.
-abstract = "Perennial grasses are promising feedstocks for biofuel 26 production, and there is potential to leverage their native microbiomes to increase their productivity and resilience to environmental stress. Here, we characterize the 16S rRNA gene diversity and seasonal assembly of bacterial and archaeal microbiomes of two perennial cellulosic feedstocks, switchgrass (Panicum virgatum L.) and miscanthus (Miscanthus x giganteus). We sampled leaves and soil every three weeks from pre-emergence through senescence for two consecutive switchgrass growing seasons and one miscanthus season, and identified core leaf taxa based on abundance and occupancy. Virtually all leaf taxa are also detected in soil; source-sink modeling shows non-random, ecological filtering by the leaf, suggesting that soil is important reservoir of phyllosphere diversity. Core leaf taxa include early, mid, and late season groups that were consistent across years and crops. This consistency in leaf microbiome dynamics and core members is promising for microbiome manipulation or management to support biofuel crop production."
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "The workshop is an all-day session at the start of the APS Annual Meeting. Goals of the workshop include strengthening APS membership understanding of root systems, root foraging and stress adaptation behavior, and recent innovations for studying root phenotyping as well as to share recent innovations in studying root/rhizosphere microbiomes and the direct and indirect ways they contribute to plant health and maintaining plant productivity during stress. The workshop will feature breakout sessions to discuss opportunities for new transformational ideas afforded by this interdisciplinary perspective, future directions for research, and how can we continue to work together in an interdisciplinary manner. The organisers of the workshop are Linda Kinkel, Leland Pierson, and Larry York."
 
 # Digital Object Identifier (DOI)
-doi = "10.1101/446369"
+#doi = "10.1101/446369"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -55,7 +55,7 @@ projects = ["plant-microbe"]
 slides = ""
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2019/05/07/446369.full.pdf"
+url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

@@ -23,10 +23,10 @@ publication = "Assembly and seasonality of core phyllosphere microbiota on peren
 publication_short = ""
 
 # Abstract.
-abstract = "Perennial grasses are promising feedstocks for biofuel 26 production, and there is potential to leverage their native microbiomes to increase their productivity and resilience to environmental stress. Here, we characterize the 16S rRNA gene diversity and seasonal assembly of bacterial and archaeal microbiomes of two perennial cellulosic feedstocks, switchgrass (Panicum virgatum L.) and miscanthus (Miscanthus x giganteus). We sampled leaves and soil every three weeks from pre-emergence through senescence for two consecutive switchgrass growing seasons and one miscanthus season, and identified core leaf taxa based on abundance and occupancy. Virtually all leaf taxa are also detected in soil; source-sink modeling shows non-random, ecological filtering by the leaf, suggesting that soil is important reservoir of phyllosphere diversity. Core leaf taxa include early, mid, and late season groups that were consistent across years and crops. This consistency in leaf microbiome dynamics and core members is promising for microbiome manipulation or management to support biofuel crop production."
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "Perennial grasses are promising feedstocks for biofuel 26 production, and there is potential to leverage their native microbiomes to increase their productivity and resilience to environmental stress. Here, we characterize the 16S rRNA gene diversity and seasonal assembly of bacterial and archaeal microbiomes of two perennial cellulosic feedstocks, switchgrass (Panicum virgatum L.) and miscanthus (Miscanthus x giganteus). We sampled leaves and soil every three weeks from pre-emergence through senescence for two consecutive switchgrass growing seasons and one miscanthus season, and identified core leaf taxa based on abundance and occupancy. Virtually all leaf taxa are also detected in soil; source-sink modeling shows non-random, ecological filtering by the leaf, suggesting that soil is important reservoir of phyllosphere diversity. Core leaf taxa include early, mid, and late season groups that were consistent across years and crops. This consistency in leaf microbiome dynamics and core members is promising for microbiome manipulation or management to support biofuel crop production."
 
 # Digital Object Identifier (DOI)
 doi = "10.1101/446369"
