@@ -1,66 +1,81 @@
----
-title: Presenting at the APS workshop: __The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interactions__
-event: APS Annual meeting
-event_url: https://example.org
-location: Cleveland, Ohio
-summary:
-abstract: "The workshop is an all-day session at the start of the APS Annual Meeting. Goals of the workshop include strengthening APS membership understanding of root systems, root foraging and stress adaptation behavior, and recent innovations for studying root phenotyping as well as to share recent innovations in studying root/rhizosphere microbiomes and the direct and indirect ways they contribute to plant health and maintaining plant productivity during stress. The workshop will feature breakout sessions to discuss opportunities for new transformational ideas afforded by this interdisciplinary perspective, future directions for research, and how can we continue to work together in an interdisciplinary manner. The organisers of the workshop are Linda Kinkel, Leland Pierson, and Larry York."
++++
+title = "New paper in bioRiv"
+date = 2019-04-07T00:00:00
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-08-03T13:00:00Z"
-date_end: "2019-08-07T15:00:00Z"
-all_day: true
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Keara L Grady *", "Jackson W. Sorensen *", "__Nejc Stopnisek__ *", "John Guittar", "Ashley Shade"]
 
-# Schedule page publish date (NOT talk date).
-publishDate: "2019-05-23T00:00:00Z"
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Preprint / Working Paper
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+# 7 = Thesis
+# 8 = Patent
+publication_types = ["3"]
 
-authors: []
-tags: []
+# Publication name and optional abbreviated version.
+publication = "Assembly and seasonality of core phyllosphere microbiota on perennial biofuel crops"
+publication_short = ""
 
-# Is this a featured talk? (true/false)
-featured: false
+# Abstract.
+abstract = "Perennial grasses are promising feedstocks for biofuel 26 production, and there is potential to leverage their native microbiomes to increase their productivity and resilience to environmental stress. Here, we characterize the 16S rRNA gene diversity and seasonal assembly of bacterial and archaeal microbiomes of two perennial cellulosic feedstocks, switchgrass (Panicum virgatum L.) and miscanthus (Miscanthus x giganteus). We sampled leaves and soil every three weeks from pre-emergence through senescence for two consecutive switchgrass growing seasons and one miscanthus season, and identified core leaf taxa based on abundance and occupancy. Virtually all leaf taxa are also detected in soil; source-sink modeling shows non-random, ecological filtering by the leaf, suggesting that soil is important reservoir of phyllosphere diversity. Core leaf taxa include early, mid, and late season groups that were consistent across years and crops. This consistency in leaf microbiome dynamics and core members is promising for microbiome manipulation or management to support biofuel crop production."
 
-image:
-  caption: ''
-  focal_point: Right
+# Summary. An optional shortened abstract.
+summary = ""
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/nejcstopno
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# Digital Object Identifier (DOI)
+doi = "10.1101/446369"
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+# Is this a featured publication? (true/false)
+featured = false
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
+#   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:["plant-microbes"]
+projects = ["plant-microbe"]
 
-# Enable math on this page?
-math: true
----
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
+# Links (optional).
+url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2019/05/07/446369.full.pdf"
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
-Slides can be added in a few ways:
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
 
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
++++
+
