@@ -1,5 +1,5 @@
 ---
-title: Attending and presenting at APS meeting in Cleveland
+title: Attending and presenting at APS meeting
 event: APS Annual meeting - Plant Health 2019
 event_url: https://www.apsnet.org/meetings/annual/planthealth2019/Pages/default.aspx
 location: Cleveland, Ohio
@@ -40,7 +40,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
