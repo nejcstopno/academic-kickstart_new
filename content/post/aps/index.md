@@ -1,10 +1,10 @@
 ---
-title: Attending and presenting APS meeting in Cleveland
+title: Attending and presenting at APS meeting in Cleveland
 event: APS Annual meeting - Plant Health 2019
 event_url: https://www.apsnet.org/meetings/annual/planthealth2019/Pages/default.aspx
 location: Cleveland, Ohio
-summary: The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interactions.
-abstract: 
+summary: __The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interactions__.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -47,7 +47,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+- internal-project
 
 # Enable math on this page?
 math: true
