@@ -1,15 +1,15 @@
 ---
-title: Attending and presenting at APS
+title: Attending and presenting at APS workshop
 event: APS annual meeting
 event_url: https://www.apsnet.org/meetings/annual/planthealth2019/Pages/default.aspx
 location: Cleveland, Ohio
-summary: Workshop entitled "The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interactions".
-abstract: ""
+summary: The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interaction.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-08-03T13:00:00Z"
-date_end: "2019-08-07T15:00:00Z"
+date: "2030-08-03T13:00:00Z"
+date_end: "2030-08-07T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
