@@ -2,7 +2,7 @@
 title: Attending and presenting at APS workshop
 event: APS annual meeting
 event_url: https://www.apsnet.org/meetings/annual/planthealth2019/Pages/default.aspx
-location: Cleveland, Ohio
+location: 
 summary: The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interaction.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
