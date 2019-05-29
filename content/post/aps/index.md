@@ -4,7 +4,6 @@ event: APS annual meeting
 event_url: https://www.apsnet.org/meetings/annual/planthealth2019/Pages/default.aspx
 location: London, United Kingdom
 summary: Aug 3-7, 2019, Cleveland, Ohio.
-#  summary: The Plant Root System: Gateway to Plant-Beneficial Rhizosphere Microbiome Interaction.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -27,10 +26,6 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/nejcstopno
 url_code: ""
 url_pdf: ""
 url_slides: ""
