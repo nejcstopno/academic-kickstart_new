@@ -23,7 +23,7 @@ featured: false
 
 image:
   caption: ''
-  focal_point: Right
+  focal_point: Smart
 
 links:
 url_code: ""
