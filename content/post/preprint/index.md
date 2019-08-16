@@ -1,6 +1,6 @@
 +++
 title = "New paper in bioRiv"
-date = 2019-08-05T00:00:00
+date = 2019-08-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["__Nejc Stopnisek__", "Ashley Shade"]
@@ -19,11 +19,11 @@ authors = ["__Nejc Stopnisek__", "Ashley Shade"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Cross-continental biogeography of the common bean rhizosphere microbiome reveals a persistent core membership"
+publication = "bioRxiv"
 publication_short = ""
 
 # Abstract.
-abstract = "Ongoing and magnifying consequences of environmental change present a complex challenge for plants, food security and sustainable agriculture. One mechanism by which plants may promote long-term stress tolerance is via beneficial interactions with the microbiome. However, there are thousands of microbiome members in the rhizosphere, and it is difficult to know which engage with the plant. We applied biogeography and assembly concepts from ecology to discover a core rhizosphere microbiome for the globally important legume, common bean. The core microbiome was not influenced by genotype, local soil properties or agricultural management, and was cosmopolitan among beans grown in North and South America. The insights and core approach provided here advance goals to manage microbiomes to support plant health and resilience."
+abstract = "Cross-continental biogeography of the common bean rhizosphere microbiome reveals a persistent core membership"
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -79,3 +79,5 @@ url_source = ""
   focal_point = "Smart"
 +++
 
+
+Ongoing and magnifying consequences of environmental change present a complex challenge for plants, food security and sustainable agriculture. One mechanism by which plants may promote long-term stress tolerance is via beneficial interactions with the microbiome. However, there are thousands of microbiome members in the rhizosphere, and it is difficult to know which engage with the plant. We applied biogeography and assembly concepts from ecology to discover a core rhizosphere microbiome for the globally important legume, common bean. The core microbiome was not influenced by genotype, local soil properties or agricultural management, and was cosmopolitan among beans grown in North and South America. The insights and core approach provided here advance goals to manage microbiomes to support plant health and resilience.

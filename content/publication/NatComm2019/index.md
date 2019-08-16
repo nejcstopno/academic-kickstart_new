@@ -56,7 +56,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2019/05/07/446369.full.pdf"
-url_code = ""
+url_code = "https://github.com/ShadeLab/PAPER_GradySorensenStopnisek_NatComm_2019"
 url_dataset = ""
 url_project = ""
 url_slides = ""
