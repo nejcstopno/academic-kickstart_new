@@ -1,9 +1,9 @@
 +++
-title = "Assembly and seasonality of core phyllosphere microbiota on perennial biofuel crops"
-date = 2019-04-07T00:00:00
+title = "Cross-continental biogeography of the common bean rhizosphere microbiome reveals a persistent core membership"
+date = 2019-08-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Keara L Grady *", "Jackson W. Sorensen *", "__Nejc Stopnisek__ *", "John Guittar", "Ashley Shade"]
+authors = ["__Nejc Stopnisek__ ", "Ashley Shade"]
 
 # Publication type.
 # Legend:
@@ -19,24 +19,24 @@ authors = ["Keara L Grady *", "Jackson W. Sorensen *", "__Nejc Stopnisek__ *", "
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Assembly and seasonality of core phyllosphere microbiota on perennial biofuel crops"
+publication = "Cross-continental biogeography of the common bean rhizosphere microbiome reveals a persistent core membership"
 publication_short = ""
 
 # Abstract.
-abstract = "Perennial grasses are promising feedstocks for biofuel 26 production, and there is potential to leverage their native microbiomes to increase their productivity and resilience to environmental stress. Here, we characterize the 16S rRNA gene diversity and seasonal assembly of bacterial and archaeal microbiomes of two perennial cellulosic feedstocks, switchgrass (Panicum virgatum L.) and miscanthus (Miscanthus x giganteus). We sampled leaves and soil every three weeks from pre-emergence through senescence for two consecutive switchgrass growing seasons and one miscanthus season, and identified core leaf taxa based on abundance and occupancy. Virtually all leaf taxa are also detected in soil; source-sink modeling shows non-random, ecological filtering by the leaf, suggesting that soil is important reservoir of phyllosphere diversity. Core leaf taxa include early, mid, and late season groups that were consistent across years and crops. This consistency in leaf microbiome dynamics and core members is promising for microbiome manipulation or management to support biofuel crop production."
+abstract = "Ongoing and magnifying consequences of environmental change present a complex challenge for plants, food security and sustainable agriculture. One mechanism by which plants may promote long-term stress tolerance is via beneficial interactions with the microbiome. However, there are thousands of microbiome members in the rhizosphere, and it is difficult to know which engage with the plant. We applied biogeography and assembly concepts from ecology to discover a core rhizosphere microbiome for the globally important legume, common bean. The core microbiome was not influenced by genotype, local soil properties or agricultural management, and was cosmopolitan among beans grown in North and South America. The insights and core approach provided here advance goals to manage microbiomes to support plant health and resilience."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1101/446369"
+doi = "10.1101/727461"
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Source Themes"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -44,7 +44,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["plant-microbe"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -55,8 +55,8 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2019/05/07/446369.full.pdf"
-url_code = ""
+url_pdf = "https://www.biorxiv.org/content/early/2019/08/09/727461.full.pdf"
+url_code = "https://github.com/ShadeLab/PAPER_Stopnisek_2019_BeanBiogeography"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -76,6 +76,5 @@ url_source = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = ""
 +++
-
