@@ -1,9 +1,9 @@
 +++
-title = "New paper in bioRiv"
-date = 2019-08-05T00:00:00
+title = "Cross-continental biogeography of the common bean rhizosphere microbiome reveals a persistent core membership"
+date = 2019-08-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["__Nejc Stopnisek__", "Ashley Shade"]
+authors = ["__Nejc Stopnisek__ ", "Ashley Shade"]
 
 # Publication type.
 # Legend:
@@ -32,7 +32,7 @@ summary = ""
 doi = "10.1101/727461"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -76,6 +76,5 @@ url_source = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "smart"
+  focal_point = ""
 +++
-
