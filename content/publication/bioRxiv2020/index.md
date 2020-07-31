@@ -32,7 +32,7 @@ summary = ""
 doi = "10.1101/2020.06.22.160184"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
