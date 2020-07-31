@@ -3,7 +3,7 @@ title = "Synergistic epistasis enhances cooperativity of mutualistic interspecie
 date = 2020-07-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Serdar Turkarslan", "_Nejc Stopnisek_", "Anne W Thompson", "Christina E Arens", "Jacob J Valenzuela", "James Wilson", "Kristopher A Hunt", "Jessica Hardwicke", "Sujung Lim", "Yee Mey Seah", "Ying Fu", "Liyou Wu", "Jizhong Zhou",  "Kristina L Hillesland", "David A Stahl", "Nitin S Baliga"]
+authors = ["Serdar Turkarslan", "__Nejc Stopnisek__", "Anne W Thompson", "Christina E Arens", "Jacob J Valenzuela", "James Wilson", "Kristopher A Hunt", "Jessica Hardwicke", "Sujung Lim", "Yee Mey Seah", "Ying Fu", "Liyou Wu", "Jizhong Zhou",  "Kristina L Hillesland", "David A Stahl", "Nitin S Baliga"]
 
 # Publication type.
 # Legend:

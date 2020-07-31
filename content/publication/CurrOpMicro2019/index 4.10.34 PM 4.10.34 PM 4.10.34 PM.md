@@ -29,7 +29,7 @@ abstract = "Core microbiomes are the consistent features of a dataset that are h
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.mib.2019.09.008"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,7 +55,7 @@ projects = ["plant-microbe"]
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://reader.elsevier.com/reader/sd/pii/S1369527419300426?token=D908F488E6431837B0FB6663D4E79438A9F9474C6F1ABE72FB8372FF742E118B2ADDC9273F553ACFAE88FF572D383AC1"
 url_code = "https://github.com/ShadeLab/PAPER_Shade_CurrOpinMicro"
 url_dataset = ""
 url_project = ""
