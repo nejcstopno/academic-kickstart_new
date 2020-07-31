@@ -1,6 +1,6 @@
 +++
-title = "Cross-continental biogeography of the common bean rhizosphere microbiome reveals a persistent core membership"
-date = 2019-08-09T00:00:00
+title = "Prioritizing persistent microbiome members in the common bean rhizosphere: an integrated analysis of space, time, and plant genotype"
+date = 2020-06-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["__Nejc Stopnisek__ ", "Ashley Shade"]

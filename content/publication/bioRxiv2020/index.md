@@ -1,9 +1,9 @@
 +++
-title = "Finally I can share my work from Stahl group"
-date = 2020-07-20T00:00:00
+title = "Synergistic epistasis enhances cooperativity of mutualistic interspecies interactions"
+date = 2020-07-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["__Nejc Stopnisek__", "Ashley Shade"]
+authors = ["Serdar Turkarslan", "_Nejc Stopnisek_", "Anne W Thompson", "Christina E Arens", "Jacob J Valenzuela", "James Wilson", "Kristopher A Hunt", "Jessica Hardwicke", "Sujung Lim", "Yee Mey Seah", "Ying Fu", "Liyou Wu", "Jizhong Zhou",  "Kristina L Hillesland", "David A Stahl", "Nitin S Baliga"]
 
 # Publication type.
 # Legend:
@@ -19,20 +19,20 @@ authors = ["__Nejc Stopnisek__", "Ashley Shade"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "bioRxiv"
+publication = "Synergistic epistasis enhances cooperativity of mutualistic interspecies interactions"
 publication_short = ""
 
 # Abstract.
-abstract = "Synergistic epistasis enhances cooperativity of mutualistic interspecies interactions"
+abstract = "Frequent fluctuations in sulfate availability rendered syntrophic interactions between the sulfate reducing bacterium _Desulfovibrio vulgaris_ (Dv) and the methanogenic archaeon _Methanococcus maripaludis_ (Mm) unsustainable. By contrast, prolonged laboratory evolution in obligate syntrophy conditions improved the productivity of this community but at the expense of erosion of sulfate respiration (SR). Hence, we sought to understand the evolutionary trajectories that could both increase the productivity of syntrophic interactions and sustain SR. We combined a temporal and combinatorial survey of mutations accumulated over 1000 generations of 9 independently-evolved communities with analysis of the genotypic structure for one community down to the single-cell level. We discovered a high level of parallelism across communities despite considerable variance in their evolutionary trajectories and the perseverance of a rare SR+ Dv lineage within many evolution lines. An in-depth investigation revealed that synergistic epistasis across Dv and Mm genotypes had enhanced cooperativity within SR- and SR+ assemblages, allowing their co-existence as r- and K-strategists, respectively."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1101/2020.06.22.160184v2"
+doi = "10.1101/2020.06.22.160184"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -56,7 +56,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "https://www.biorxiv.org/content/10.1101/2020.06.22.160184v2.full.pdf"
-url_code = ""
+url_code = "https://github.com/sturkarslan/evolution-of-syntrophy"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -78,9 +78,3 @@ url_source = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-
-
-In this work we investigated the evolutionary trajectories that led to the improved growth in the evolved cocultures of Methanococcus and Desulfovibrio and mechanisms that led to maintenance of diverse populations within theses cocultures.  
-This work is a product of excellent collaboration with Serdar Turkarslan and many others within the ENIGMA consortium. 
-
-
