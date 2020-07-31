@@ -1,8 +1,8 @@
 ---
-title: _Burkholderia_ sp. in soil environment
+title: Burkholderia sp. in soil environment
 summary: Genus _Burkholderia_ -  importance of biotic interactions for successful colonization of acid soils
 tags:
-- Past projects
+- Past projectss
 date: "2012-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -29,6 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
 
 _Collaboration: Noah Fierer, Albert Barberan, Kathrin Riedel, Beat Frey, James Prosser_
 
