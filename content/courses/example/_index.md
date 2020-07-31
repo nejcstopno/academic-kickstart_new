@@ -2,11 +2,7 @@
 # Course title, summary, and position.
 linktitle: My take on bioinformatics
 summary: A collection of codes, scripts and workflows for processing reads from either amplicon or shotgun sequencing.
-
-
-linktitle: How to learn bioinformatics
-summary: A collection of resources that I have used to learn bioinformatics.
-
+weight:1
 
 
 # Page metadata.
