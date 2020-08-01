@@ -1,15 +1,14 @@
 ---
 # Course title, summary, and position.
-linktitle: My take on bioinformatics
-summary: A collection of codes, scripts and workflows for processing reads from either amplicon or shotgun sequencing.
+linktitle: Resources to help you learn bioinformatics
+summary: A list of resources I recommend for everyone doing bioinformatics.
 weight: 1
-
 
 # Page metadata.
 title: Overview
 date: "2018-09-09T00:00:00Z"
 lastmod: "2020-07-30T00:00:00Z"
-draft: false  # Is this a draft? true/false
+draft: true  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 

@@ -35,8 +35,8 @@ Phyllosphere represents the leaf surface area. The phyllosphere microbiota is kn
 We are addressing these questions in two projects:
 
 - __Seasonal dynamics of phyllosphere microbiota on switchgrass and miscanthus grasses over 3 growing seasons__
-- __Investigating roles of microbe-microbe and host-microbe interactions on phyllosphere microbiota dynamics__ 
+- __Investigating functionality of the phyllosphere microbiome through use of omics__ 
 
-_Collaboration: Gregory Bonito, Adina Howe_
+_Collaboration: Adina Howe_
 
 _Funding: GLBRC (https://www.glbrc.org/)_
