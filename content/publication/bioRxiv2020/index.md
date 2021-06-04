@@ -1,6 +1,6 @@
 +++
 title = "Synergistic epistasis enhances cooperativity of mutualistic interspecies interactions"
-date = 2020-07-09T00:00:00
+date = 2021-02-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Serdar Turkarslan", "__Nejc Stopnisek__", "Anne W Thompson", "Christina E Arens", "Jacob J Valenzuela", "James Wilson", "Kristopher A Hunt", "Jessica Hardwicke", "Sujung Lim", "Yee Mey Seah", "Ying Fu", "Liyou Wu", "Jizhong Zhou",  "Kristina L Hillesland", "David A Stahl", "Nitin S Baliga"]
@@ -16,7 +16,7 @@ authors = ["Serdar Turkarslan", "__Nejc Stopnisek__", "Anne W Thompson", "Christ
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Synergistic epistasis enhances cooperativity of mutualistic interspecies interactions"
@@ -29,7 +29,7 @@ abstract = "Frequent fluctuations in sulfate availability rendered syntrophic in
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1101/2020.06.22.160184"
+doi = "10.1038/s41396-021-00919-9"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,7 +55,7 @@ projects = ["syntrophy"]
 slides = ""
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2020.06.22.160184v2.full.pdf"
+url_pdf = "https://www.nature.com/articles/s41396-021-00919-9.pdf"
 url_code = "https://github.com/sturkarslan/evolution-of-syntrophy"
 url_dataset = ""
 url_project = ""
