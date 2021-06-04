@@ -70,9 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nejc Stopnisek is currently a postdoctoral scholar at the Michigan State University working with [Ashley Shade](http://ashley17061.wixsite.com/shadelab). His research goal is to elucidate and exploit the drivers and consequences of biotic interactions on ecosystem functioning and host wellbeing to mitigate effects of future environmental changes. 
+I am currently a postdoctoral scholar at the Netherlands Institute of Ecology working with [Jos Raaijmakers](https://nioo.knaw.nl/en/employees/jos-raaijmakers). My research goal is to elucidate and exploit the drivers and consequences of biotic interactions on ecosystem functioning and host wellbeing to mitigate effects of future environmental changes. 
 
-His research is based around plant-microbe interactions and soil microbiome. In particular, he is interested in how: 
+My research is based around plant-microbe interactions and soil microbiome. In particular, I is interested in how: 
 
 i) __tripartite interactions of plant-soil-microbe will be affected by the climate change and what consequences will that have on agroecosystem functioning and crop production__
 
