@@ -14,8 +14,8 @@ role: Postdoctoral Scholar with interest in plant-soil-microbe interactions
 
 # Organizations/Affiliations
 organizations:
-- name: Michigan State University 
-  url: "http://ashley17061.wixsite.com/shadelab"
+- name: NIOO-KNAW, Netherlands 
+  url: "https://nioo.knaw.nl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include plant-microbe interactions, soil microbial ecology and nutrient cycling.
