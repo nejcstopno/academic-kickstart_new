@@ -23,16 +23,16 @@ publication = "bioRxiv"
 publication_short = ""
 
 # Abstract.
-abstract = "Frequent fluctuations in sulfate availability rendered syntrophic interactions between the sulfate reducing bacterium _Desulfovibrio vulgaris_ (Dv) and the methanogenic archaeon _Methanococcus maripaludis_ (Mm) unsustainable. By contrast, prolonged laboratory evolution in obligate syntrophy conditions improved the productivity of this community but at the expense of erosion of sulfate respiration (SR). Hence, we sought to understand the evolutionary trajectories that could both increase the productivity of syntrophic interactions and sustain SR. We combined a temporal and combinatorial survey of mutations accumulated over 1000 generations of 9 independently-evolved communities with analysis of the genotypic structure for one community down to the single-cell level. We discovered a high level of parallelism across communities despite considerable variance in their evolutionary trajectories and the perseverance of a rare SR+ Dv lineage within many evolution lines. An in-depth investigation revealed that synergistic epistasis across Dv and Mm genotypes had enhanced cooperativity within SR- and SR+ assemblages, allowing their co-existence as r- and K-strategists, respectively."
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "Plants and microbes form beneficial associations. It is expected that understanding these interactions will allow for microbiome management to enhance crop productivity and resilience to stress. Here, we apply a genome-centric approach to identify key leaf microbiome members and quantify their activities on field-grown switchgrass and miscanthus. We integrate metagenome and metatranscriptome sequencing from 237 leaf samples collected over key time points in crop phenology. We curate metagenome-assembled-genomes (MAGs), and conservatively focus analysis on the highest quality MAGs that were <15.5% contaminated, >70% complete, and detected in a minimum of 10% of samples for each crop. Populations represented by these MAGs were actively transcribing genes, and exhibited seasonal dynamics in key functions, including pyruvate metabolism, threonine, homoserine and serine biosynthesis, and stress response. Notably, we detected enrichment in transcripts annotated to nonmavalonate isoprene biosynthesis in the late season, prior to and during host senescence, concurrent with when plants are expected to decrease their isoprene biosynthesis. We also detected groups of MAGs that had coherent transcript dynamics in thioredoxin reductase, which suggests a response to reactive oxygen species, potentially released by plant hosts experiencing abiotic stress. Overall, this study overcame laboratory and bioinformatic challenges associated with field-based leaf metatranscriptomes analysis to direct to some of the key activities of phyllosphere bacteria. These activities collectively support that leaf-associated bacterial populations can be seasonally dynamic, responsive to host cues, and, likely, interactively engage in feedbacks with the plant."
 
 # Digital Object Identifier (DOI)
-doi = "10.1101/2021.04.20.44060"
+doi = "10.1101/2021.04.20.440608"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
