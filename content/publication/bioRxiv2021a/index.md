@@ -1,9 +1,9 @@
 +++
-title = "Synergistic epistasis enhances cooperativity of mutualistic interspecies interactions"
-date = 2021-02-09T00:00:00
+title = "Genome-centric analyses of seasonal phyllosphere microbiome activities in perennial crops"
+date = 2021-04-20T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Serdar Turkarslan", "__Nejc Stopnisek__", "Anne W Thompson", "Christina E Arens", "Jacob J Valenzuela", "James Wilson", "Kristopher A Hunt", "Jessica Hardwicke", "Sujung Lim", "Yee Mey Seah", "Ying Fu", "Liyou Wu", "Jizhong Zhou",  "Kristina L Hillesland", "David A Stahl", "Nitin S Baliga"]
+authors = ["Adina Howe", "__Nejc Stopnisek__", "Shane K. Dooley", "Fan M. Yang", "Keara L. Grady", "Ashley Shade"]
 
 # Publication type.
 # Legend:
@@ -16,10 +16,10 @@ authors = ["Serdar Turkarslan", "__Nejc Stopnisek__", "Anne W Thompson", "Christ
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Synergistic epistasis enhances cooperativity of mutualistic interspecies interactions"
+publication = "bioRxiv"
 publication_short = ""
 
 # Abstract.
@@ -29,34 +29,34 @@ abstract = "Frequent fluctuations in sulfate availability rendered syntrophic in
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1038/s41396-021-00919-9"
+doi = "10.1101/2021.04.20.44060"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["plant-microbe"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["syntrophy"]
+projects = ["plant-microbe"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/s41396-021-00919-9.pdf"
-url_code = "https://github.com/sturkarslan/evolution-of-syntrophy"
+url_pdf = "https://www.biorxiv.org/content/10.1101/2021.04.20.440608v1.full.pdf"
+url_code = "https://github.com/ShadeLab/PAPER_Howe_2021_switchgrass_MetaT"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -69,7 +69,7 @@ url_source = ""
 # links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""

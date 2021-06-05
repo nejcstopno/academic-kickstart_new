@@ -1,9 +1,9 @@
 +++
-title = "Prioritizing persistent microbiome members in the common bean rhizosphere: an integrated analysis of space, time, and plant genotype"
-date = 2020-06-09T00:00:00
+title = "Abundance-occupancy distributions to prioritize core microbiome membership"
+date = 2019-07-20T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["__Nejc Stopnisek__ ", "Ashley Shade"]
+authors = ["Ashley Shade","__Nejc Stopnisek__ "]
 
 # Publication type.
 # Legend:
@@ -19,17 +19,17 @@ authors = ["__Nejc Stopnisek__ ", "Ashley Shade"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Cross-continental biogeography of the common bean rhizosphere microbiome reveals a persistent core membership"
+publication = "Current Opinion in Microbiology"
 publication_short = ""
 
 # Abstract.
-abstract = "Ongoing and magnifying consequences of environmental change present a complex challenge for plants, food security and sustainable agriculture. One mechanism by which plants may promote long-term stress tolerance is via beneficial interactions with the microbiome. However, there are thousands of microbiome members in the rhizosphere, and it is difficult to know which engage with the plant. We applied biogeography and assembly concepts from ecology to discover a core rhizosphere microbiome for the globally important legume, common bean. The core microbiome was not influenced by genotype, local soil properties or agricultural management, and was cosmopolitan among beans grown in North and South America. The insights and core approach provided here advance goals to manage microbiomes to support plant health and resilience."
+abstract = "Core microbiomes are the consistent features of a dataset that are hypothesized to reflect underlying functional relationships with the host. A review of the recent plant-microbiome literature reveals a variety of study-specific approaches used to define the core, which presents a challenge to building a general plant-microbiome framework. Abundance-occupancy distributions, used in macroecology to describe changes in community diversity over space, offer an ecological approach for prioritizing core membership for both spatial and temporal studies. Additionally, neutral models fit to the abundance-occupancy distributions can provide insights into deterministically selected core members. We provide examples and code to systematically explore a core plant microbiome from abundance-occupancy distributions."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1101/727461"
+doi = "10.1016/j.mib.2019.09.008"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -41,7 +41,7 @@ tags = []
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = ["plant-microbe"]
@@ -49,14 +49,14 @@ projects = ["plant-microbe"]
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/early/2019/08/09/727461.full.pdf"
-url_code = "https://github.com/ShadeLab/PAPER_Stopnisek_2019_BeanBiogeography"
+url_pdf = "https://reader.elsevier.com/reader/sd/pii/S1369527419300426?token=D908F488E6431837B0FB6663D4E79438A9F9474C6F1ABE72FB8372FF742E118B2ADDC9273F553ACFAE88FF572D383AC1"
+url_code = "https://github.com/ShadeLab/PAPER_Shade_CurrOpinMicro"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -69,7 +69,7 @@ url_source = ""
 # links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
