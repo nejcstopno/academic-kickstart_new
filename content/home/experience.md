@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -23,8 +23,8 @@ date_format = "2006"
   company = "Michigan State University"
   company_url = ""
   location = "Michigan"
-  date_start = "2017"
-  date_end = "2020"
+  date_start = "Apr 2017"
+  date_end = "Dec 2020"
   description = """"""
 
 [[experience]]
@@ -32,8 +32,8 @@ date_format = "2006"
   company = "University of Washington"
   company_url = ""
   location = "Washington"
-  date_start = "2014"
-  date_end = "2017"
+  date_start = "Nov 2014"
+  date_end = "Mar 2017"
   description = """"""
 
 [[experience]]
@@ -41,16 +41,8 @@ date_format = "2006"
   company = "University of Zurich"
   company_url = ""
   location = "Switzerland"
-  date_start = "2010"
-  date_end = "2014"
+  date_start = "Sep 2010"
+  date_end = "Oct 2014"
   description = """"""
 
-[[experience]]
-  title = "Visiting researcher in James I Prosser group"
-  company = "University of Aberdeen"
-  company_url = ""
-  location = "UK"
-  date_start = "2009"
-  date_end = "2009"
-  description = """"""
 +++
